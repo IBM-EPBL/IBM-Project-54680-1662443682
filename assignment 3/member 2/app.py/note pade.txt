@@ -1,0 +1,19 @@
+ATHSAL333@#$x
+
+Trainer Name: - Shyam
+Batch no: - B5M1E-05
+1. Create a Flask App
+2. Add the Home page, About Page
+3. Add the Bootstrap
+4. Add the Sign in page and App the Signup Page
+
+Trainer Name: - Shyam
+Batch No: - B1M3E-01
+Hi all, Students Here is Assignment 1 :- Develop a
+sample homepage with html, CSS which should include banner, image & description about yourself
+and contact form.
+
+Here is the link for reference for the task of how your html page will be : https://superdevresources.com/wp-content/uploads/2021/01/right-resume-screenshot.png
+
+
+
